@@ -16,7 +16,7 @@
         <PackageReference Include="NServiceBus.Extensions.Hosting" Version="1.0.1" />
         <PackageReference Include="NServiceBus.MSDependencyInjection" Version="0.1.4" />
         <PackageReference Include="NServiceBus.SqlServer" Version="6.1.1" />
-        <PackageReference Include="boost" Version="1.70.0" />
+        <PackageReference Include="boost" Version="1.67.0" />
     </ItemGroup>
 
 </Project>
